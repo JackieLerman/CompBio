@@ -1,0 +1,25 @@
+X = position of an object 
+V = Speed of the object
+a = acceleration 
+
+If constant speed is known(Linear):
+    Distance = V*T(Time) 
+    
+real time speed(For a very small time):
+    V = X'= dx/dt
+    a = v' = x"
+    
+Approx speed:
+    Change in x = V(t)* change in time 
+    Change in speed = a * change in time
+    
+
+
+()= small below variable: 
+    X(i+1) = x(i) + v(i) * dt 
+    v(i+1) = v(i) + a * dt 
+
+    
+   
+       
+            
