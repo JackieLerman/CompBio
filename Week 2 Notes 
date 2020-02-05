@@ -17,7 +17,16 @@ Approx speed:
 
 ()= small below variable: 
     X(i+1) = x(i) + v(i) * dt 
-    v(i+1) = v(i) + a * dt 
+    v(i+1) = v(i) + a * dt
+    
+    
+    
+Bacteria duplicating:
+    x = x*r (r=rate) <----- we use this 
+    t+dt = x *r*dt<------ honest  
+    
+
+
 
     
    
